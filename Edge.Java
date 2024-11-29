@@ -1,4 +1,4 @@
-  class Edge {
+  public class Edge {
    
     Road road;
     Edge next;
