@@ -1,4 +1,4 @@
- class Map {
+public class Map {
    
     public HashMap<String, LinkedList> graph;
     public static int numIntersections;
