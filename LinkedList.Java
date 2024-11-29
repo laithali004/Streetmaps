@@ -1,4 +1,4 @@
-    class LinkedList {
+    public class LinkedList {
    
         public int size;
         public Node head;
